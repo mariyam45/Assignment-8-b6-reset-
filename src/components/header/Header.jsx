@@ -29,7 +29,7 @@ const Header = () => {
                 <a>Settings</a>
               </li>
               <li>
-                <a>Logout</a>
+                <a>LogOut</a>
               </li>
             </ul>
           </div>
